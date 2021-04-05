@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Factorization.iml" filepath="$PROJECT_DIR$/Factorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UserChat.iml" filepath="$PROJECT_DIR$/../UserChat.iml" />
     </modules>
   </component>
 </project>
